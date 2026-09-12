@@ -57,6 +57,4 @@ class Program
             }
         }
     }
-
-    // Creativity: I added an option to show the number of journal entries.
 }
